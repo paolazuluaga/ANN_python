@@ -1,2 +1,1 @@
-# ANN_python
-Artificial Neural Network
+# Artificial Neural Network - ANN
